@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Polyer</title>
+    <link href="./css/panel.css" rel="stylesheet" type="text/css">
+    <style>
+        #canvas-box {
+            outline: none;
+        }
+
+        #canvas-box.move {
+            cursor: move;
+        }
+
+        #canvas-box.edit {
+            cursor: crosshair;
+        }
+
+        #canvas-box canvas {
+            float: left;
+        }
+    </style>
+</head>
+<body>
+<div id="canvas-box" class="move"></div>
+<script src="./lib/utils.js"></script>
+<script src="./lib/panel.js"></script>
+<script src="./lib/delaunay.js"></script>
+<script src="./lib/webgl.js"></script>
+<script src="./lib/index.js"></script>
+<script>
+</script>
+</body>
+</html>

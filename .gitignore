@@ -1,10 +1,12 @@
-*
+/*
 !/css
 !/img
 !/lib
-!polyer.html
+!index.html
+!test.html
 !Polyer.min.js
 !package.json
 !Gruntfile.js
+!.gitignore
 !LICENSE
 !README.md
