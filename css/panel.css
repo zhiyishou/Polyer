@@ -315,7 +315,7 @@ html, body {
     background-color: white;
     border-radius: 50%;
     float: left;
-    margin-left: 20%;
+    margin-left: 25%;
     margin-right: -10px;
     margin-top: -2px;
     border: 2px solid #1abc9c;
@@ -336,7 +336,7 @@ html, body {
     background-color: #16a085;
     border-radius: 50%;
     position: absolute;
-    left: 37px;
+    left: 0px;
     top: 2px;
     cursor: pointer;
     transition: background-color 0.2s;
