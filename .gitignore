@@ -1,8 +1,10 @@
-*
+/*
 !/css
 !/img
 !/lib
+!.gitignore
 !polyer.html
+!test.html
 !Polyer.min.js
 !package.json
 !Gruntfile.js
