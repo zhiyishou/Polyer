@@ -3,7 +3,7 @@ Process a picture to low poly format
 
 Live on http://zhiyishou.github.io/polyer
 
-!["comparison"](http://zhiyishou.github.io/polyer/mao.jpg)
+!["comparison"](http://zhiyishou.github.io/polyer/img/mao.jpg)
 
 ##Usage
 Drag or upload a picture to Polyer and edit with control panel
