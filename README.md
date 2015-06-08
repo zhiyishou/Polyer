@@ -1,6 +1,10 @@
 #polyer
 Process a picture to low poly format
 
+Live on http://zhiyishou.github.io/polyer
+
+!["comparison"](http://zhiyishou.github.io/polyer/mao.jpg)
+
 ##Usage
 Drag or upload a picture to Polyer and edit with control panel
 you can store the low poly picture after process
