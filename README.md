@@ -6,7 +6,7 @@ Live on http://zhiyishou.github.io/polyer
 !["comparison"](http://zhiyishou.github.io/polyer/img/mao.jpg)
 
 ##Usage
-Drag or upload a picture to Polyer and edit with control panel
+Drag or upload a picture to Polyer and edit with control panel  
 you can store the low poly picture after process
 
 ##Tips
