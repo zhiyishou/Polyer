@@ -3,7 +3,7 @@
 !/img
 !/lib
 !.gitignore
-!polyer.html
+!index.html
 !test.html
 !Polyer.min.js
 !package.json
