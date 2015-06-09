@@ -7,7 +7,7 @@ Live on http://zhiyishou.github.io/polyer
 
 ##Usage
 Drag or upload a picture to Polyer and edit with control panel  
-you can store the low poly picture after process
+you can save the low poly picture after process
 
 ##Tips
 * hold space to move
