@@ -790,7 +790,7 @@ html, body {
     left: 3px;
 }
 
-.circle-icon.minilize:before {
+.circle-icon.minimize:before {
     content: "";
     width: 14px;
     height: 4px;
