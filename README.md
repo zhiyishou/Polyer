@@ -1,7 +1,7 @@
-#polyer
+#Polyer
 Process a picture to low poly format
 
-Live on http://zhiyishou.github.io/polyer
+Live on http://zhiyishou.github.io/Polyer
 
 !["comparison"](http://zhiyishou.github.io/polyer/img/mao.jpg)
 
