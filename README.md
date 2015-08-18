@@ -1,5 +1,5 @@
 #Polyer
-Process a picture to low poly format
+Process a picture to low poly format, base on WebGL
 
 Live on http://zhiyishou.github.io/Polyer
 
@@ -28,6 +28,7 @@ show edit window and view window both
 show view window
 
 ###Process
+---
 
 **Blur Size**  
 The size of kernel when doing convolution for blur process
@@ -54,6 +55,7 @@ The background image of edit window
 * Edge: show edged image as background, could be refered when adjusting edge size
 
 ###Edit
+---
 
 **Vertex**
 
@@ -72,6 +74,7 @@ Num of all vertices
 This value colud limit the num of vertices, the vertices be more, the processed picture will look like original picture more.
 
 ###Colors
+---
 
 **Mesh Color**  
 The color of triangle mesh in edit window
