@@ -1,4 +1,5 @@
-#Polyer
+# Polyer
+
 Process a picture to low poly format, base on WebGL
 
 Live on http://zhiyishou.github.io/Polyer
@@ -7,18 +8,21 @@ Live on http://zhiyishou.github.io/Polyer
 
 !["comparison"](http://zhiyishou.github.io/Polyer/img/mao.jpg)
 
-##Usage
+## Usage
+
 Drag or upload a picture to Polyer and edit with control panel  
 you can save the low poly picture after process
 
-##Tips
+## Tips
+
 * hold space to move
 * scroll mousewheel to zoom
 * the panel could be dragged
 
 
-##Control Panel
-###Mode
+## Control Panel
+
+### Mode
 
 **Edit**  
 show edit window only
@@ -29,7 +33,8 @@ show edit window and view window both
 **View**  
 show view window
 
-###Process
+### Process
+
 ---
 
 **Blur Size**  
@@ -56,7 +61,8 @@ The background image of edit window
 * Blur: show blured image as background, could be refered when adjusting blur size
 * Edge: show edged image as background, could be refered when adjusting edge size
 
-###Edit
+### Edit
+
 ---
 
 **Vertex**
@@ -75,7 +81,8 @@ Num of all vertices
 
 This value colud limit the num of vertices, the vertices be more, the processed picture will look like original picture more.
 
-###Colors
+### Colors
+
 ---
 
 **Mesh Color**  
