@@ -22,7 +22,7 @@
 
 !.gitignore
 !index.html
-!test.html
+!index.min.html
 !package.json
 !Gruntfile.js
 !LICENSE
