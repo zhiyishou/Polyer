@@ -2,7 +2,7 @@
 
 Process a picture to low poly format, base on WebGL
 
-Live on http://zhiyishou.github.io/Polyer
+Live on https://zhiyishou.github.io/Polyer
 
 *This app could run anywhere on PC/Mac/Mobile except using IE10 or older*
 
